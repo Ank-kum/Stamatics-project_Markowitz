@@ -1,2 +1,2 @@
 #Markowitz Portfolio theory 
-protfolio: ACC, Axisbank, sunpharma
+>>protfolio: ACC, Axisbank, sunpharma
